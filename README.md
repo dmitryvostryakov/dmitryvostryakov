@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Dmitry Vostryakov — Build. Probe. Repeat." width="100%" />
+  <img src="assets/header-cat.png" alt="Dmitry Vostryakov — Build. Probe. Repeat. Black technopunk cat." width="100%" />
 </p>
 
 ### Hey, I'm Dmitry.
