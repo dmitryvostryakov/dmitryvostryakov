@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Dmitry Vostryakov — Build. Probe. Repeat.</title>
+  <desc id="desc">Graphite technopunk banner with cyan circuits, amber accents, and bold typography.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#193138" stroke-width="1"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#0a0f14"/><stop offset="1" stop-color="#101f27"/></linearGradient>
+  </defs>
+  <rect width="1600" height="520" fill="url(#fade)"/>
+  <rect x="850" width="750" height="520" fill="url(#grid)" opacity=".55"/>
+  <path d="M1110 0V90L1200 180H1510M1600 380H1350L1250 280H1120M1600 440H1290L1190 340H1080M1300 0V70L1450 220H1600" fill="none" stroke="#45e5de" stroke-width="2" opacity=".4"/>
+  <path d="M1170 0V50L1270 150H1600M1600 410H1320L1220 310H1150" fill="none" stroke="#45e5de" opacity=".16" stroke-width="10"/>
+  <g fill="#45e5de"><circle cx="1200" cy="180" r="5"/><circle cx="1120" cy="280" r="5"/><circle cx="1080" cy="340" r="5"/></g>
+  <path d="M1440 520V420L1500 360H1600" fill="none" stroke="#ffb454" stroke-width="3"/>
+  <rect x="72" y="64" width="8" height="25" fill="#45e5de"/>
+  <text x="99" y="84" fill="#45e5de" font-family="monospace" font-size="20" letter-spacing="4">DMITRY VOSTRYAKOV</text>
+  <text x="66" y="231" fill="#eef6f5" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="900" letter-spacing="-5">BUILD. PROBE.</text>
+  <text x="66" y="345" fill="#45e5de" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="900" letter-spacing="-5">REPEAT.</text>
+  <path d="M73 390H980" stroke="#34464c"/>
+  <text x="73" y="436" fill="#b6c6ca" font-family="monospace" font-size="21" letter-spacing="2">MACHINE LEARNING / SYSTEMS / WEB</text>
+  <rect x="1460" y="64" width="67" height="8" fill="#ffb454"/>
+  <text x="1526" y="481" text-anchor="end" fill="#647c84" font-family="monospace" font-size="15" letter-spacing="2">&lt;/&gt;</text>
+</svg>
